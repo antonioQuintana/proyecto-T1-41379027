@@ -10,3 +10,9 @@ body {
   font-weight: bold;
   font-style: italic;
 }
+.ejercicio-4 {
+  background-color: #968454;
+  margin: 20px;
+  padding: 10px;
+  border: 3px dashed #333;
+}
