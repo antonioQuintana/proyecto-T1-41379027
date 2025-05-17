@@ -16,3 +16,40 @@ body {
   padding: 10px;
   border: 3px dashed #333;
 }
+.nav-bar {
+  background-color: #0f5764;
+  color: #fff;
+  padding: 10px;
+}
+.nav-items {
+  display: flex;
+  justify-content: space-around;
+}
+.nav-items a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+.nav-items li {
+  list-style: none;
+}
+
+header {
+  background-color: #69bd45;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+section {
+  padding: 20px; /* espaciado para la sección de 20 pixeles */
+}
+footer {
+  background-color: #4caf50; /* Color de fondo del footer */
+  color: #fff;
+  padding: 20px 0;
+}
+.footer-content {
+  max-width: 800px; /* Ancho máximo del contenido del footer */
+  margin: 0 auto; /* Centrar el contenido del footer horizontalmente */
+  text-align: center;
+}
